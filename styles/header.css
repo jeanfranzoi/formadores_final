@@ -59,6 +59,7 @@
 
 .container__titulo{
     display: none;
+    text-align: center;
 }
 
 @media screen and (min-width: 1024px){
