@@ -65,6 +65,10 @@
     display: none;
 }
 
+.container__texto{
+    display: none;
+}
+
 @media screen and (min-width: 1024px){
 
     .container__titulo, .container__titulo--negrito{
@@ -111,10 +115,6 @@
     .opções__botão{
         display: none;
     }
-}
-
-.container__texto{
-    display: none;
 }
 
 @media screen and (min-width: 1728px) {
